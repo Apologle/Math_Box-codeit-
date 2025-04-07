@@ -7,5 +7,5 @@ def subtract(a,b):
 def sayhello():
     return 0
 
-def divide_premium():
+def divide_new():
     return a/b
