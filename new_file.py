@@ -7,5 +7,5 @@ def subtract(a,b):
 def sayhello():
     return 0
 
-def divide():
+def divide_free():
     return a/b
